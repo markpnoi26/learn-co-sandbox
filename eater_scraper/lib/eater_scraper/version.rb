@@ -1,3 +1,3 @@
-module Cli
+module EaterScraper
   VERSION = "0.1.0"
 end

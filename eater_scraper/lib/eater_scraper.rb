@@ -1,6 +1,6 @@
-require "cli/version"
+require "eater_scraper/version"
 
-module Cli
+module EaterScraper
   class Error < StandardError; end
   # Your code goes here...
 end
